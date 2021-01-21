@@ -1,4 +1,4 @@
 # Shooting_Square
  Web Game
 
-elizra.itch.io/shooting-square
+https://elizra.itch.io/shooting-square
